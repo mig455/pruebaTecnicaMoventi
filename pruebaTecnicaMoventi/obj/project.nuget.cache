@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9RSMMerQT5kl3wvSjgNLiHY4WcDbuatDBPZIwrC4nGrhm+iB78xlkxfgS52HDEd59i/tfUtV2IBEMf4+jUJ6Q==",
+  "success": true,
+  "projectFilePath": "E:\\Moventi\\pruebaTecnicaMoventi\\pruebaTecnicaMoventi\\pruebaTecnicaMoventi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

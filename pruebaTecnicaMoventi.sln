@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaTecnicaMoventi", "pruebaTecnicaMoventi\pruebaTecnicaMoventi.csproj", "{851D851A-56A2-4DF2-A881-0BF4CCD37BD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositorio", "Repositorio", "{88178CF9-0C9F-48CB-BBAE-CBB3D4CE32A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", "{310D2BD6-FB9B-4575-A580-29229F36E15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaTecnicaMoventi.Services", "pruebaTecnicaMoventi.Services\pruebaTecnicaMoventi.Services.csproj", "{386652F9-C707-400D-ABFF-02DB9091AF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaTecnicaMoventi.Repositories", "pruebaTecnicaMoventi.Repositories\pruebaTecnicaMoventi.Repositories.csproj", "{B2BB0891-7A68-4097-A393-254F755EF55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaTecnicaMoventi.DTOs", "pruebaTecnicaMoventi.DTOs\pruebaTecnicaMoventi.DTOs.csproj", "{DA982944-624C-4D9C-85FF-0BF495430DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851D851A-56A2-4DF2-A881-0BF4CCD37BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851D851A-56A2-4DF2-A881-0BF4CCD37BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851D851A-56A2-4DF2-A881-0BF4CCD37BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851D851A-56A2-4DF2-A881-0BF4CCD37BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386652F9-C707-400D-ABFF-02DB9091AF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386652F9-C707-400D-ABFF-02DB9091AF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386652F9-C707-400D-ABFF-02DB9091AF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386652F9-C707-400D-ABFF-02DB9091AF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BB0891-7A68-4097-A393-254F755EF55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BB0891-7A68-4097-A393-254F755EF55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BB0891-7A68-4097-A393-254F755EF55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BB0891-7A68-4097-A393-254F755EF55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA982944-624C-4D9C-85FF-0BF495430DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA982944-624C-4D9C-85FF-0BF495430DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA982944-624C-4D9C-85FF-0BF495430DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA982944-624C-4D9C-85FF-0BF495430DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{386652F9-C707-400D-ABFF-02DB9091AF27} = {310D2BD6-FB9B-4575-A580-29229F36E15D}
+		{B2BB0891-7A68-4097-A393-254F755EF55A} = {88178CF9-0C9F-48CB-BBAE-CBB3D4CE32A3}
+		{DA982944-624C-4D9C-85FF-0BF495430DA6} = {310D2BD6-FB9B-4575-A580-29229F36E15D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D63FA94E-D79A-4D61-ABDC-C3364E6814DE}
+	EndGlobalSection
+EndGlobal

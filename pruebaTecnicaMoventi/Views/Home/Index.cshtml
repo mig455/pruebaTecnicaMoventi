@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Formulario de Precalificación";
+}
+
+<div class="container-center col-lg-7 col-md-9 col-11">
+    <div class="steps">
+        <div class="stp-actual">1</div>
+        <div class="middleStep"></div>
+        <div class="stp-actual stp-futuro">2</div>
+    </div>
+    <div class="cardP">
+        <div class="headerCard">
+            <div class="imgHeader"></div>
+            <div class="textHeader" id="textHeader" >Ingresa los datos a evaluar</div>
+        </div>
+        <div class="BodyCard row" id="paso1">
+            <div class="CardMoney col-10">
+                <div class="imgMoney"></div>
+                <div class="textMoney">Precalifica a tu prospecto y averigua su score - nivel de riesgo.</div>
+            </div>
+            <form id="documentForm" class="col-8">
+                <label for="country">País(*):</label>
+                <select id="country" name="country" onChange="changeCountry()">
+                </select>
+                <label for="typeDocument">Tipo de documento (*):</label>
+                <select id="typeDocument" name="typeDocument" onChange="changeDocuement()">
+                </select>
+
+                <label for="country">Número de documento (*):</label>
+                <input id="numberDocument" name="numberDocument" oninput="changeDocuementNumber()" />
+                <div class="errornumberDocument" id="errornumberDocument" hidden>
+                    <div class="imgError"></div>
+                    <div class="msjError" id="msjError">Prueba</div>
+                </div>
+                <button type="submit" disabled class="botonFiltrar" id="botonFiltrar">Filtrar</button>
+            </form>
+        </div>
+        <div class="BodyCard row" id="paso2" hidden>
+            <div class="cardResult col-11 col-md-10 col-md-9 " id="cardResult">
+                <div class="contentResult" >
+                    <div class="titleResult" id="titleResult">
+                       
+                    </div>
+                    <div class="nivelResult">
+                        NIVEL DE RIESGO:<b id="nivelResult"></b>
+                    </div>
+                </div>
+                <div class="imgResult">
+                </div>
+            </div>
+            <div class="cardResult col-11 col-md-10 col-md-9 headerDataResult">
+                <div class="row">
+                    <div class="titleData col-6 col-md-5 col-lg-4">N° de consulta:</div>
+                    <div class="col-6 col-md-7 col-lg-8" id="radomData"></div>
+                    <div class="titleData col-6 col-md-5 col-lg-4">Hora:</div>
+                    <div class="col-6 col-md-7 col-lg-8" id="horaData"></div>
+                </div>
+            </div>
+            <div class="cardResult col-11 col-md-10 col-md-9 BodyDataResult">
+                <div class="titleBodyDataResult">Datos del cliente:</div>
+                <div class="BodyDataResultName" id="nombreData"></div>
+                <div class="contentBodyData">
+                    <div class="titleBodyData">Tipo de documento:</div>
+                    <div class="contentBodyData" id="tipoDData"></div>
+                </div>
+                <div class="contentBodyData">
+                    <div class="titleBodyData">Número de documento:</div>
+                    <div class="contentBodyData" id="NumeroDData"></div>
+                </div>
+            </div>
+            <div class="cardResult col-11 col-md-10 col-md-9 Infodata ">
+                
+                <div class="contentInfodATA"> <div class="imgInfodata"></div> Sobre el nivel de riesgo:</div>
+                <ul>
+                    <li>De <span class="highlight-blue">A hasta G</span>, el prospecto <span class="highlight-blue">pre-califica</span>.</li>
+                    <li>Si es de <span class="highlight-orange">H en adelante</span>, el prospecto <span class="highlight-orange">no califica</span>.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\bin\Debug\net6.0\pruebaTecnicaMoventi.DTOs.deps.json
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\bin\Debug\net6.0\pruebaTecnicaMoventi.DTOs.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\bin\Debug\net6.0\pruebaTecnicaMoventi.DTOs.pdb
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\pruebaTecnicaMoventi.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\pruebaTecnicaMoventi.DTOs.AssemblyInfoInputs.cache
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\pruebaTecnicaMoventi.DTOs.AssemblyInfo.cs
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\pruebaTecnicaMoventi.DTOs.csproj.CoreCompileInputs.cache
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\pruebaTecnicaMoventi.DTOs.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\refint\pruebaTecnicaMoventi.DTOs.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\pruebaTecnicaMoventi.DTOs.pdb
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.DTOs\obj\Debug\net6.0\ref\pruebaTecnicaMoventi.DTOs.dll

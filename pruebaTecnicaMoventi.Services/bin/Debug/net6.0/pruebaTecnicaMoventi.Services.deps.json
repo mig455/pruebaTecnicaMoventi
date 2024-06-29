@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pruebaTecnicaMoventi.Services/1.0.0": {
+        "dependencies": {
+          "pruebaTecnicaMoventi.DTOs": "1.0.0",
+          "pruebaTecnicaMoventi.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "pruebaTecnicaMoventi.Services.dll": {}
+        }
+      },
+      "pruebaTecnicaMoventi.DTOs/1.0.0": {
+        "runtime": {
+          "pruebaTecnicaMoventi.DTOs.dll": {}
+        }
+      },
+      "pruebaTecnicaMoventi.Repositories/1.0.0": {
+        "dependencies": {
+          "pruebaTecnicaMoventi.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "pruebaTecnicaMoventi.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebaTecnicaMoventi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pruebaTecnicaMoventi.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pruebaTecnicaMoventi.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

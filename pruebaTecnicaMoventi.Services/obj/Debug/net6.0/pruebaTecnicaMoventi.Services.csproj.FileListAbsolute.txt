@@ -1,0 +1,17 @@
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.Services.deps.json
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.Services.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.Services.pdb
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.DTOs.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.Repositories.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.DTOs.pdb
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\bin\Debug\net6.0\pruebaTecnicaMoventi.Repositories.pdb
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.csproj.AssemblyReference.cache
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.AssemblyInfoInputs.cache
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.AssemblyInfo.cs
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.csproj.CoreCompileInputs.cache
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.csproj.CopyComplete
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\refint\pruebaTecnicaMoventi.Services.dll
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\pruebaTecnicaMoventi.Services.pdb
+E:\Moventi\pruebaTecnicaMoventi\pruebaTecnicaMoventi.Services\obj\Debug\net6.0\ref\pruebaTecnicaMoventi.Services.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pruebaTecnicaMoventi.DTOs/1.0.0": {
+        "runtime": {
+          "pruebaTecnicaMoventi.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebaTecnicaMoventi.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
